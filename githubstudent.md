@@ -1,5 +1,5 @@
 # GitHub Student
 
-* Name: GitHub Student
-* Location: Minneapolis, MN
-* Favorite desert: ice cream
+* **Name:** GitHub Student
+* **Location:** Minneapolis, MN
+* **Favorite desert:** ice cream
