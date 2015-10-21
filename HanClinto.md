@@ -3,6 +3,5 @@
 * Name: Clint
 * Location: Cincinnati, OH
 
-
-* :eyes:
-* :lips:
+* Favorite Dessert: :shaved_ice:
+* Favorite Breakfast: :rice:
