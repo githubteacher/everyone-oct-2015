@@ -1,5 +1,5 @@
 #rjhaylor student
 
-*Name: Rick Haylor 
+* **Name:** Rick Haylor 
 
-*Location: Reston, VA
+* **Location:** Reston, VA
