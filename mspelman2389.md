@@ -1,5 +1,5 @@
 # mspelman2389
 
-* Name: Mspelman2389
-* Location: New York, NY
-* forgot to add your weather condition
+**Name:** Mspelman2389
+**Location:** New York, NY
+**Weather conditions:** warm and sunny
