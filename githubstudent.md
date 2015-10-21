@@ -1,6 +1,5 @@
 # GitHub Student
 
-* **Name:** Joshua
+* **Name:** GitHub Student
 * **Location:** Minneapolis, MN
 * **Favorite desert:** ice cream
-* **Favorite breakfast:** pancakes
