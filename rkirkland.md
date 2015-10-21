@@ -1,6 +1,0 @@
-# rkirkland
-
-* Name:
-* Location:
-
-# Cake
